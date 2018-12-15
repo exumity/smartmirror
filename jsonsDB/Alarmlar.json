@@ -1,0 +1,19 @@
+{
+  "alarmdegerleri":[
+    {
+      "saat":"11",
+      "dakika":"06",
+      "durum":true
+    },
+    {
+      "saat":"05",
+      "dakika":"50",
+      "durum":false
+    },
+    {
+      "saat":"04",
+      "dakika":"30",
+      "durum":true
+    }
+  ]
+}

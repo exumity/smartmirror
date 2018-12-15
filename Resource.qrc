@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="images">
+    <file alies="gunesli.png">Resources/images/A.png</file>
+    <file alies="yagmurlu.png">Resources/images/AB.png</file>
+    <file alies="bulutlu.png">Resources/images/CB.png</file>
+    <file alies="bulutlu.png">Resources/images/HSY.png</file>
+    <file alies="bulutlu.png">Resources/images/HY.png</file>
+    <file alies="bulutlu.png">Resources/images/K.png</file>
+    <file alies="bulutlu.png">Resources/images/PB.png</file>
+    <file alies="bulutlu.png">Resources/images/SIS.png</file>
+    <file alies="bulutlu.png">Resources/images/SY.png</file>
+    <file alies="bulutlu.png">Resources/images/Y.png</file>
+    <file alies="bulutlu.png">Resources/images/PUS.png</file>
+    <file alies="bulutlu.png">Resources/images/GSY.png</file>
+    <file alies="bulutlu.png">Resources/images/R.png</file>
+    <file alies="bulutlu.png">Resources/images/KGY.png</file>
+    <file alies="yukleniyor.png">Resources/images/MSY.png</file>
+    <file alies="yukleniyor.png">Resources/images/yukleniyor.png</file>
+    <file alies="yukleniyor.png">Resources/images/phonecall.png</file>
+    <file alies="yukleniyor.png">Resources/images/alarmclock.png</file>
+  </qresource>
+</RCC>

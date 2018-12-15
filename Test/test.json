@@ -1,0 +1,24 @@
+{
+  "alarms": [
+    {
+      "time": "23:45",
+      "enable": true,
+      "ringtone": "ringtone.mp3"
+    },
+    {
+      "time": "19:45",
+      "enable": true,
+      "ringtone": "ringtone3.mp3"
+    },
+    {
+      "time": "20:00",
+      "enable": true,
+      "ringtone": "ringtone2.mp3"
+    },
+    {
+      "time": "01:00",
+      "enable": true,
+      "ringtone": "ringtone.mp3"
+    }
+  ]
+}
